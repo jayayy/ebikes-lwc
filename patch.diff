@@ -1,0 +1,10 @@
+diff --git a/force-app/main/default/objects/Account/Account.object-meta.xml b/force-app/main/default/objects/Account/Account.object-meta.xml
+index e68c6d2..b8e6b8d 100644
+--- a/force-app/main/default/objects/Account/Account.object-meta.xml
++++ b/force-app/main/default/objects/Account/Account.object-meta.xml
+@@ -1,4 +1,5 @@
+ <?xml version="1.0" encoding="UTF-8" ?>
++<CustomTag Jay is here in lwc repo/>
+ <CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+     <actionOverrides>
+         <actionName>CallHighlightAction</actionName>
